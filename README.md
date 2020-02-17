@@ -1,4 +1,4 @@
-# Project 1: Relational Data Modeling with PostgreSQL
+# Relational Data Modeling with PostgreSQL
 
 <p align="center"><img src="images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
 
